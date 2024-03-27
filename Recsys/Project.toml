@@ -1,0 +1,10 @@
+name = "Recsys"
+uuid = "92b14451-614e-495b-805a-5d8ea04c8d0a"
+authors = ["filipebraida "]
+version = "0.1.0"
+
+[deps]
+BinDeps = "9e28174c-4ba2-5203-b857-d8d62c4213ee"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Downloads = "f43a241f-c20a-4ad4-852c-f6b1247861c6"
